@@ -107,9 +107,11 @@ A penalty modifier increases your overall seed count if a specific condition is 
     The Roguemon Rivals Tournament Series pits 16 players against each other in a single elimination tournament. Each round players go head to head to reach the furthest PB across three types. First player to win 2 types wins the match up and advances to next round.
 
 [Alphabet Draft](https://github.com/ThePorofessor/-Rogue-Rivals-Alphabet-Draft)
-    The Alphabet Draft is a subset rules format for Roguemon Rivals where players draft favorite letters instead of specific Pokemon. These favorite letters are then used to pick their pivots in typeless runs.
+    The Alphabet Draft is a variant for Roguemon Rivals where players draft favorite letters instead of specific Pokemon. These favorite letters are then used to pick their pivots in typeless runs.
 
 Tag Team Brawl - Coming Soon
+
+King of the Hill - Coming Soon
 
 ---
 
@@ -186,7 +188,7 @@ To avoid an exhaustive list of yes and no’s, all use of time machine will be b
 ---
 
 ## Credits
-Adapted Rules Created by: [ThePorofessor](https://www.twitch.tv/theporofessor) and [ZogaOak](https://www.twitch.tv/zogaoak)
+Updated Rules and A2 Format Created by: [ThePorofessor](https://www.twitch.tv/theporofessor) and [ZogaOak](https://www.twitch.tv/zogaoak)
 
 Roguemon Rivals Format Created by: [iCrucialx](https://twitch.tv/icrucialx) and [Ceedsy](https://twitch.tv/ceedsy) 
 
