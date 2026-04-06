@@ -104,14 +104,15 @@ A penalty modifier increases your overall seed count if a specific condition is 
 <h1 align="center">Alternative Formats</h1>
 
 [Tournament Series](https://github.com/ThePorofessor/Roguemon-Rivals-Tournament-Series)
-    The Roguemon Rivals Tournament Series pits 16 players against each other in a single elimination tournament. Each round players go head to head to reach the furthest PB across three types. First player to win 2 types wins the match up and advances to next round.
+The Roguemon Rivals Tournament Series pits 16 players against each other in a single elimination tournament. Each round players go head to head to reach the furthest PB across three types. First player to win 2 types wins the match up and advances to next round.
 
 [Alphabet Draft](https://github.com/ThePorofessor/-Rogue-Rivals-Alphabet-Draft)
-    The Alphabet Draft is a variant for Roguemon Rivals where players draft favorite letters instead of specific Pokemon. These favorite letters are then used to pick their pivots in typeless runs.
+The Alphabet Draft is a variant for Roguemon Rivals where players draft favorite letters instead of specific Pokemon. These favorite letters are then used to pick their pivots in typeless runs.
 
-Tag Team Brawl - Coming Soon
+[King of the Hill](https://github.com/ThePorofessor/King-of-the-Hill)
+King of the Hill is a variant for Roguemon Rivals where players battle in a free for all against their competitors across three rounds. After each round, the bottom 50% of players are eliminated from the competition and the top 50% move onto the next round. The game mode is unique in that there are no player restrictions, champion boons, and rapid gameplay. Additionally, it keeps the feel of Roguemon Rivals with an autodrafter!
 
-King of the Hill - Coming Soon
+Tag Team Brawl - Coming Soon!!
 
 ---
 
